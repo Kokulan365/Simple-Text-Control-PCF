@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest>
+  <control namespace="KokulanPCFControls" constructor="SimpleTextControl" version="0.0.1" display-name-key="SimpleTextControl" description-key="This control allows you to displays text with custom styles using HTML tags/CSS styles" control-type="standard">
+    <property name="SimpleTextControl" display-name-key="SimpleTextControl" description-key="SimpleTextControl" of-type="SingleLine.Text" usage="bound" required="true" />
+    <property name="TextPart1" display-name-key="Text Part 1" description-key="Part 1 of the text to be displayed" of-type="SingleLine.Text" usage="input" required="false" />
+    <property name="TextPart2" display-name-key="Text Part 2" description-key="Part 2 of the text to be displayed" of-type="SingleLine.Text" usage="input" required="false" />
+    <property name="TextPart3" display-name-key="Text Part 3" description-key="Part 3 of the text to be displayed" of-type="SingleLine.Text" usage="input" required="false" />
+    <property name="TextPart4" display-name-key="Text Part 4" description-key="Part 4 of the text to be displayed" of-type="SingleLine.Text" usage="input" required="false" />
+    <property name="TextPart5" display-name-key="Text Part 5" description-key="Part 5 of the text to be displayed" of-type="SingleLine.Text" usage="input" required="false" />
+    <property name="TextStyle" display-name-key="Text Style" description-key="CSS for text style" of-type="SingleLine.Text" usage="input" required="false" />
+    <property name="ContainerStyle" display-name-key="Div Container Style" description-key="DivContainerStyle" of-type="SingleLine.Text" usage="input" required="false" />
+    <resources>
+      <code path="index.ts" order="1"/>
+    </resources>
+  </control>
+</manifest>
