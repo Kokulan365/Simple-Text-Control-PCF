@@ -5,3 +5,5 @@ Text could be displayed with custom formats using HTML tags / CSS styles. The co
 
 ![Examples Screenhot](https://github.com/Kokulan365/Simple-Text-Control-PCF/blob/master/Examples.png)
 
+
+#Downloading and Installing the control
