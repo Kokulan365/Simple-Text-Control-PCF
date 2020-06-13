@@ -9,13 +9,16 @@ Text could be displayed with custom formats using HTML tags / CSS styles. The co
 ## Downloading and Installing the control
 
 Both managed and unmanaged versions of the solution are released and they can be found on releases page of this repository. Please follow the link below to get to release page.
+
 [Release Page](https://github.com/Kokulan365/Simple-Text-Control-PCF/releases)
 
 
 ## How to use the control
 The control currently only binds to a "Single Line of Text"  and the control can be added to the form by going into Controls tab of the field property and clicking on Add Control button as shown below.
-![Release Page](https://github.com/Kokulan365/Simple-Text-Control-PCF/blob/master/Documentation/howtoadd.png)
+
+![How To Add](https://github.com/Kokulan365/Simple-Text-Control-PCF/blob/master/Documentation/howtoadd.png)
 
 Once you added the control, you can set the text and style as shown in the screenshot below.
-![Release Page](https://github.com/Kokulan365/Simple-Text-Control-PCF/blob/master/Documentation/howtouse.png)
+
+![How To Use](https://github.com/Kokulan365/Simple-Text-Control-PCF/blob/master/Documentation/howtouse.png)
 
