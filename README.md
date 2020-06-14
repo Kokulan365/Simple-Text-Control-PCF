@@ -44,7 +44,7 @@ __Text Style:__ color:black
 __Div Container Style:__ background-color:#e6ffe6;
 
 
-## Sample Text 1 - Output and Configuration
+## Sample Text 2 - Output and Configuration
 
 ![Sampe Text 2](https://github.com/Kokulan365/Simple-Text-Control-PCF/blob/master/Documentation/TextSample2.png)
 
